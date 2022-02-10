@@ -60,15 +60,14 @@ p{
 }
 
 .top-cloud {
-  position: relative;
-  left: 25%;
-  top: 10%;
+  position: absolute;
+  right: 300px;
+  top: 40px;
 }
 
-
 .bottom-cloud {
-  position: relative;
-  right: 10%;
+  position: absolute;
+  left: 250px;
   bottom: 300px;
 }
 
