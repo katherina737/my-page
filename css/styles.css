@@ -60,28 +60,18 @@ p{
 }
 
 .top-cloud {
-  position: absolute;
-  right: 250px;
-  top: 100px;
+  position: relative;
+  left: 25%;
+  top: 10%;
 }
 
-.topleft-cloud{
-  position: absolute;
-  left: 200px;
-  top: 150px;
-}
 
 .bottom-cloud {
-  position: absolute;
-  left: 500px;
+  position: relative;
+  right: 10%;
   bottom: 300px;
 }
 
-.bottomleft-cloud{
-  position: absolute;
-  right: 400px;
-  bottom: 220px;
-}
 
 .intro{
   width: 30%;
